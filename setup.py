@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cerebro_backtester',
-    version='10.0.1',
+    version='10.0.2',
     author='Nathan Schmidt',
     description='',
     long_description=open('README.md').read(),
