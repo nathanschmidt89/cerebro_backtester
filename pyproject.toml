@@ -27,7 +27,7 @@
 name = "cerebro_backtester"
 version = "10.0.1"
 authors = [
-  { name="Nathan Schmidt"},
+  { name="Nathan Schmidt", email = "nathan.schmidt.ns89@gmail.com" },
 ]
 description = "A backtesting framework for evaluating trading strategies on historical market data with features like stop-loss, take-profit, trailing stop, and risk management."
 readme = "README.md"
